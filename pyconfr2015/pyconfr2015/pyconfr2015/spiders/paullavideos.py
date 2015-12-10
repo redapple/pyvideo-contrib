@@ -17,6 +17,7 @@ class PauLLAVideosSpider(scrapy.Spider):
 
     def parse_video_page(self, r):
         yield {
+            'page_url': r.url,
             'title': r.css('article > h1::text').get(),
             'videos': [
                 {'src': safe_download_url(r.urljoin(src.xpath('@src').get())),
