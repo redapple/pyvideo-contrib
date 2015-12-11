@@ -1,0 +1,141 @@
+Processing http://video-pyconfr2015.paulla.asso.fr/012%20-%20Boris%20FELD%20-%20Micro-services%20k%C3%A9sako.ogv
+  Duration: 00:24:51.00, start: 0.000000, bitrate: 883 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/011%20-%20Nicole%20Harris%20-%20Learning%20Python,%20Learning%20French.ogv
+  Duration: 00:31:43.36, start: 0.000000, bitrate: 998 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/010%20-%20Guillaume%20Ayoub%20-%20Du%20site%20dynamique%20au%20document%20imprimable%20en%20Python.ogv
+  Duration: 00:22:14.44, start: 0.000000, bitrate: 908 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/009%20-%20Charlie%20Clark%20-%20The%20Art%20of%20Doing%20Nothing%20-%20Using%20profiling%20to%20speed%20up%20your%20code.ogv
+  Duration: 00:16:41.84, start: 0.000000, bitrate: 804 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/008%20-%20serge%20sans_paille%20-%20Plus%20loin%20que%20la%20m%C3%A9moization%20:%20la%20tabulation.ogv
+  Duration: 00:27:45.92, start: 0.000000, bitrate: 861 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/007%20-%20ebel%20franck%20-%20Scapy,%20application%20%C3%A0%20la%20s%C3%A9curit%C3%A9.ogv
+  Duration: 00:22:15.44, start: 0.000000, bitrate: 903 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/006%20-%20Boris%20FELD%20-%20from%20Sync%20to%20to%20Async%20Python,%20a%20AsyncIO%20migration.ogv
+  Duration: 00:23:12.00, start: 0.000000, bitrate: 878 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/005%20-%20Feth%20Arezki%20-%20Inventaire%20des%20sp%C3%A9cificit%C3%A9s%20de%20Python.ogv
+  Duration: 00:18:57.00, start: 0.000000, bitrate: 1064 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/004%20-%20Alex%20Marandon%20-%20Pi%C3%A8ges%20et%20bizarreries%20de%20(C)Python.ogv
+  Duration: 00:26:24.00, start: 0.000000, bitrate: 685 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/003%20-%20Alexis%20M%C3%A9taireau,%20Mathieu%20Leplatre,%20R%C3%A9my%20Hubscher%20-%20Kinto:%20stocker,%20synchroniser%20et%20partager%20ses%20donn%C3%A9es%20de%20mani%C3%A8re%20g%C3%A9n%C3%A9rique.ogv
+  Duration: 00:36:02.00, start: 0.000000, bitrate: 860 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/002%20-%20Pierre%20CHARLET%20-%20D%C3%A9couverte%20de%20Django.ogv
+  Duration: 00:20:46.00, start: 0.000000, bitrate: 811 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/001%20-%20Martin%20Richard%20-%20Votre%20appli%20web%20et%20Python:%20de%20z%C3%A9ro%20au%20million%20d'utilisateurs.ogv
+  Duration: 00:28:36.00, start: 0.000000, bitrate: 802 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/211%20-%20%C3%89ric%20LEMOINE%20-%20GeoAlchemy%20:%20le%20g%C3%A9o-compagnon%20d'SQLAlchemy.ogv
+  Duration: 00:26:47.54, start: 0.000000, bitrate: 401 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/208%20-%20Michael%20Scherer%20-%20D%C3%A9ploiement%20d'applications%20python%20dans%20un%20monde%20post-docker.ogv
+  Duration: 00:23:08.85, start: 0.000000, bitrate: 426 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/205%20-%20Olivier%20Andr%C3%A9%20-%20Bokor:%20distribution%20de%20films%20en%20BitTorrent%20et%20hacking%20python.ogv
+  Duration: 00:19:42.89, start: 0.000000, bitrate: 449 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/119%20-%20Yann%20Gravrand%20-%20Visuellement%20correct%20-%20tests%20de%20non%20r%C3%A9gression%20visuels%20automatis%C3%A9s.ogv
+  Duration: 00:25:36.14, start: 0.000000, bitrate: 744 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/221%20-%20Michael%20Scherer%20-%20Audit%20de%20s%C3%A9curit%C3%A9%20d'application%20python%20avec%20Bandit.ogv
+  Duration: 00:24:07.42, start: 0.000000, bitrate: 334 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/220%20-%20Boris%20FELD%20-%20Mock%20considered%20harmful.ogv
+  Duration: 00:27:40.46, start: 0.000000, bitrate: 437 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/217%20-%20Christophe%20de%20Vienne%20-%20Pyramid%20&%20Cubicweb.ogv
+  Duration: 00:29:04.89, start: 0.000000, bitrate: 396 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/216%20-%20Yann%20Vot%C3%A9%20-%20Importer%20des%20donn%C3%A9es%20en%20Python%20avec%20CubicWeb%203.21.ogv
+  Duration: 00:21:09.23, start: 0.000000, bitrate: 378 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/215%20-%20Alex%20Marandon%20-%20D%C3%A9mystifier%20les%20entr%C3%A9es-sorties%20asynchrones.ogv
+  Duration: 00:33:41.06, start: 0.000000, bitrate: 416 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/214%20-%20vincent%20maillol%20-%20L'utilisation%20des%20m%C3%A9taclasses.ogv
+  Duration: 00:02:30.80, start: 0.000000, bitrate: 560 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/213%20-%20Paul%20TREMBERTH%20-%20XPath%20for%20web%20scraping.ogv
+  Duration: 00:29:01.71, start: 0.000000, bitrate: 427 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/118%20-%20vincent%20maillol%20-%20Utilisation%20de%20unittest.ogv
+  Duration: 00:22:45.01, start: 0.000000, bitrate: 639 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/117%20-%20Beno%C3%AEt%20Bryon%20-%20Healthchecks%20:%20des%20tests%20en%20prod.ogv
+  Duration: 00:19:14.54, start: 0.000000, bitrate: 527 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/116%20-%20Arthur%20Lutz%20-%20Marre%20de%20faire%20du%20C++%20sur%20une%20Arduino%20Faites%20du%20Python%20avec%20MicroPython%20sur%20une%20PyBoard.ogv
+  Duration: 00:19:09.18, start: 0.000000, bitrate: 824 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/115%20-%20K.I.A%20Derouiche%20-%20Pendule%20m%C3%A9canique,%20inertie,%20mouvements%20de%20robot:%20une%20mod%C3%A9lisation%20de%20la%20m%C3%A9canique%20avec%20SymPy.ogv
+  Duration: 00:34:26.78, start: 0.000000, bitrate: 755 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/114%20-%20Julien%20Aupetit%20-%20Switch,%20ou%20Se%20jeter%20%C3%A0%20l'eau%20avec%20PyQT.ogv
+  Duration: 00:19:49.93, start: 0.000000, bitrate: 601 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/113%20-%20Patrice%20Journaud,%20Florent%20Aide%20-%20Python,%20routing%20et%20TSP.ogv
+  Duration: 00:28:38.90, start: 0.000000, bitrate: 695 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/112%20-%20Michael%20Launay%20-%20Nova-Ideo,%20une%20boite%20%C3%A0%20id%C3%A9es%20collaborative.ogv
+  Duration: 00:25:49.86, start: 0.000000, bitrate: 683 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/110%20-%20Cyril%20Roelandt%20-%20Guix-tox,%20une%20version%20fonctionnelle%20de%20tox.ogv
+  Duration: 00:29:14.27, start: 0.000000, bitrate: 567 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/109%20-%20Matthieu%20Huin,%20Fabien%20Boucher%20-%20Optimiser%20l'int%C3%A9gration%20de%20code%20avec%20Zuul.ogv
+  Duration: 00:26:22.07, start: 0.000000, bitrate: 700 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/108%20-%20Bruno%20Bord%20-%20tox%20est%20amour.ogv
+  Duration: 00:20:47.86, start: 0.000000, bitrate: 713 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/107%20-%20Alexandre%20Fayolle%20-%20Fonctionnement%20de%20l'Odoo%20Community%20Association.ogv
+  Duration: 00:18:59.05, start: 0.000000, bitrate: 765 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/106%20-%20Georges%20Racinet%20-%20Anyblock.ogv
+  Duration: 00:29:33.05, start: 0.000000, bitrate: 622 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/105%20-%20Mike%20BRIGHT%20-%20IPython%20vers%20Jupyter.ogv
+  Duration: 00:19:22.02, start: 0.000000, bitrate: 665 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/024%20-%20Benoit%20Chesneau%20-%20Let%20it%20crash%20-%20Que%20peut%20apporter%20Erlang%20%C3%A0%20Python.ogv
+  Duration: 00:25:32.00, start: 0.000000, bitrate: 928 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/023%20-%20Charlie%20Clark%20-%20When%20generated%20code%20makes%20sense.ogv
+  Duration: 00:20:53.52, start: 0.000000, bitrate: 667 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/022%20-%20serge%20sans_paille,%20pierrick%20brunet%20-%20We%20don't%20need%20your%20loops.ogv
+  Duration: 00:23:02.08, start: 0.000000, bitrate: 908 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/021%20-%20S%C3%A9bastien%20Martinez,%20Alexandre%20Manoury%20-%20Mise%20%C3%A0%20jour%20%C3%A0%20chaud%20d'un%20animal%20%C3%A0%20sang%20froid.ogv
+  Duration: 00:25:55.52, start: 0.000000, bitrate: 1155 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/020%20-%20Olivier%20Grisel%20-%20Construire%20et%20tester%20des%20wheels%20sous%20Linux,%20OSX%20et%20Windows.ogv
+  Duration: 00:24:02.00, start: 0.000000, bitrate: 808 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/019%20-%20Rodolphe%20Qui%C3%A9deville%20-%20SQL%20Debug%20avec%20Django.ogv
+  Duration: 00:25:15.48, start: 0.000000, bitrate: 872 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/018%20-%20LEMAIRE%20Arnaud%20-%20Des%20boucles%20aux%20tranducersd.ogv
+  Duration: 00:26:57.76, start: 0.000000, bitrate: 888 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/017%20-%20Pierre-Yves%20David%20-%2010%20ans%20d'astuce%20et%20d'abus,%20Mercurial%20jongle%20avec%20Python.ogv
+  Duration: 00:31:14.00, start: 0.000000, bitrate: 874 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/016%20-%20Arthur%20Vuillard%20-%20Cr%C3%A9er%20une%20communaut%C3%A9%20locale.ogv
+  Duration: 00:11:40.00, start: 0.000000, bitrate: 794 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/015%20-%20AG%20AFPy.ogv
+  Duration: 00:42:26.00, start: 0.000000, bitrate: 1114 kb/s
+
+Processing http://video-pyconfr2015.paulla.asso.fr/013%20-%20Mathieu%20Leplatre,%20Alexis%20M%C3%A9taireau,%20R%C3%A9my%20Hubscher%20-%20Cliquet:%20un%20toolkit%20pour%20construire%20des%20(micro)services.ogv
+  Duration: 00:29:38.12, start: 0.000000, bitrate: 774 kb/s
+
